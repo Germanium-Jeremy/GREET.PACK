@@ -1,0 +1,22 @@
+{
+  "name": "greet",
+  "version": "1.0.0",
+  "description": "A simple node package to greet users with different customised messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "greet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Germanium-Jeremy/GREET.PACK.git"
+  },
+  "keywords": [
+    "greet"
+  ],
+  "author": "NKUNDABAGENZI Jeremie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Germanium-Jeremy/GREET.PACK/issues"
+  },
+  "homepage": "https://github.com/Germanium-Jeremy/GREET.PACK#readme"
+}
